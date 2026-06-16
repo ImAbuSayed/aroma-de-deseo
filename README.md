@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aroma-de-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Aroma de deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-deseo/) |
+| **Get License** | [Get License For Aroma de deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `481a5e2330955bbe92ff5ea6d518b09fadd7f1332411dc82ca7a51c2a9a849e1` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
