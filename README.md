@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aroma-de-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Aroma de deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-deseo/) |
+| **Get License** | [Music Rights & Licensing for Aroma de deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aroma-de-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 7f86f03e89b404b46c00d3f8b3c64b930cb59921
+> Ese aroma de deseo me tiene a tus pies
+> Bailando en la disco como la primera vez
+> Tus labios me llaman en la oscuridad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
